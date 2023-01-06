@@ -53,6 +53,6 @@ def process(x,y,index):
                     index += 1
             if index == n*n:
                 break
-            total_count += 1
+            total_wcount += 1
 
     print(total_count)
